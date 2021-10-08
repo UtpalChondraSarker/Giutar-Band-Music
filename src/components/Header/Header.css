@@ -1,0 +1,31 @@
+.header nav{
+    background-color: black;
+    line-height: 50px;
+}
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid goldenrod;
+}
+
+.header nav a:hover{
+    background-color: lightgrey;
+   
+    
+}
+.title{
+    width: auto;
+    height: 80px;
+    background-color: rgb(82, 75, 75);
+    padding-top: 10px;
+    color: lightyellow;
+   
+}
+.title-container{
+    background-color: gray;
+    height: 100px;
+    color: honeydew;
+}

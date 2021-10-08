@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Electric guitar",
+        "username": "",
+        "email": "Sincere@april.biz",
+        "price": "400",
+        "img": "https://cdn.mos.cms.futurecdn.net/Yh6r74b8CAj2jbdf2FAhq4.jpg",
+        "description": "An electric guitar is a guitar that produces sound by vibrating strings over a pickup that converts the vibrations into electrical signals. Those signals are fed into an amplifier, which projects the musical performance at a wide range of volumes.",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-770-736-8031 x56442",
+        "website": "hildegard.org",
+        "company": {
+            "name": "Romaguera-Crona",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Advance music",
+        "price": "400",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+        "img": "https://static.vecteezy.com/system/resources/thumbnails/000/102/337/small_2x/mariachi-music-instrument-vectors.jpg",
+        "description": "Music is a collection of coordinated sound or sounds. Making music is the process of putting sounds and tones in an order, often combining them to create a unified composition. People who make music creatively organize sounds for a desired result, like a Beethoven symphony or one of Duke Ellington's jazz songs.",
+        "address": {
+            "street": "Victor Plains",
+            "suite": "Suite 879",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771",
+            "geo": {
+                "lat": "-43.9509",
+                "lng": "-34.4618"
+            }
+        },
+        "phone": "010-692-6593 x09125",
+        "website": "anastasia.net",
+        "company": {
+            "name": "Deckow-Crist",
+            "catchPhrase": "Proactive didactic contingency",
+            "bs": "synergize scalable supply-chains"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Piano",
+        "price": "500",
+        "img": "https://dwcm8qfd10mal.cloudfront.net/production/transforms/recordingimages/167772/Kevin-S-poster-image_acbc10137a60d07be74ad50f86e83bfc.png",
+        "description": "A piano is a large musical instrument that you play by pressing black and white keys on a keyboard. ... A piano makes a sound when each key moves a small hammer that strikes a metal string. The inside of a piano looks kind of like a harp.",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "address": {
+            "street": "Douglas Extension",
+            "suite": "Suite 847",
+            "city": "McKenziehaven",
+            "zipcode": "59590-4157",
+            "geo": {
+                "lat": "-68.6102",
+                "lng": "-47.0653"
+            }
+        },
+        "phone": "1-463-123-4447",
+        "website": "ramiro.info",
+        "company": {
+            "name": "Romaguera-Jacobson",
+            "catchPhrase": "Face to face bifurcated interface",
+            "bs": "e-enable strategic applications"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Harmunium",
+        "price": "400",
+        "img": "https://i.ytimg.com/vi/eLf0DBhrz24/maxresdefault.jpg",
+        "description": "Harmonium, also called Reed Organ, free-reed keyboard instrument that produces sound when wind sent by foot-operated bellows through a pressure-equalizing air reservoir causes metal reeds screwed over slots in metal frames to vibrate through the frames with close tolerance.",
+        "username": "Karianne",
+        "email": "Julianne.OConner@kory.org",
+        "address": {
+            "street": "Hoeger Mall",
+            "suite": "Apt. 692",
+            "city": "South Elvis",
+            "zipcode": "53919-4257",
+            "geo": {
+                "lat": "29.4572",
+                "lng": "-164.2990"
+            }
+        },
+        "phone": "493-170-9623 x156",
+        "website": "kale.biz",
+        "company": {
+            "name": "Robel-Corkery",
+            "catchPhrase": "Multi-tiered zero tolerance productivity",
+            "bs": "transition cutting-edge web services"
+        }
+    }
+]

@@ -1,0 +1,17 @@
+.home{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+
+
+}
+
+.homes img{
+    width: 350px;
+    border: 1 px solid orange;
+    border-radius: 10px;
+}
+

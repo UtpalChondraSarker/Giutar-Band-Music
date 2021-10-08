@@ -1,0 +1,7 @@
+.service{
+    border: 2px solid blue;
+    padding: 5px;
+   
+    border-radius: 10px;
+    text-align: center;
+}

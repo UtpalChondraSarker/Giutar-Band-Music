@@ -1,0 +1,16 @@
+.homes{
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+}
+.button{
+    background-color:goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid rgba(211, 211, 211, 0.959);
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    
+}
+
